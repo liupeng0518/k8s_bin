@@ -9,5 +9,5 @@ endpoints:
   https://api.travis-ci.org/:
     access_token: QzfY5UdioHUK3T8KkenoNA
 repos:
-  liupeng0518/gcr_sync:
+  liupeng0518/k8s_bin:
     endpoint: https://api.travis-ci.org/
