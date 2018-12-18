@@ -12,7 +12,7 @@ url_format='https://dl.k8s.io/%s/kubernetes-server-linux-amd64.tar.gz'
 
 git_init(){
     git config --global user.name "liupeng0518"
-    git config --global user.email liupeng0518@qq.com
+    git config --global user.email liupeng0518@gmail.com
     git remote rm origin
     git remote add origin git@github.com:liupeng0518/k8s_bin.git
     git pull
