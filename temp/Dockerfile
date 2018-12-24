@@ -1,2 +1,2 @@
             FROM liupeng0518/alpine
-            COPY kube-apiserver /
+            COPY kube-controller-manager /
